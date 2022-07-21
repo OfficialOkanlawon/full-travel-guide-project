@@ -60,6 +60,11 @@ header {
     position: relative;
 }
 
+.act ul li a:active {
+    font-weight: bolder;
+}
+
+
 .noti {
     width: 350px;
     position: absolute;
